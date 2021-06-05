@@ -5,9 +5,22 @@
 
 # Table of Contents
 * **[Table of Contents](#table-of-contents)**
+* **[Tutorials](#tutorials)**
+  * **[Talks / Lectures](#talks-lectures)**
 * **[Papers](#papers)**
-  * **[Tutorials](#tutorials)**
-* **[Slides](#slides)**
+  * **[Sorted by acquisition functions](#sorted-by-acquisition-functions)**
+    * **[Expected Improvement](#expected-improvement)**
+    * **[Entropy Search](#entropy-search)**
+    * **[Knowledge Gradient](#knowledge-gradient)**
+    * **[Upper Confidence Bound](#upper-confidence-bound)**
+    * **[Probability of Improvement](#probability-of-improvement)**
+  * **[Sorted by settings](#sorted-by-settings)**
+    * **[multi-objective](#multi-objective)**
+    * **[parallel](#parallel)**
+    * **[constraints](#constraints)**
+    * **[multi-fidelity](#multi-fidelity)**
+    * **[noisy evaluations](#noisy-evaluations)**
+* **[Software](#software)**
 * **[Acknowledgement](#acknowledgement)**
 
 
@@ -36,6 +49,7 @@
 
 
 # Tutorials
+[Back to Top](#table-of-contents)
   * 2018 | A Tutorial on Bayesian Optimization
   * 2010 | A tutorial on Bayesian optimization of expensive cost functions, with application to active user modeling and hierarchical reinforcement learning
   * 2015 | Taking the human out of the loop: A review of Bayesian optimization
@@ -70,7 +84,7 @@
 
 # Papers
 
-## Sort by core acquisition functions
+## Sorted by acquisition functions
 [Back to Top](#table-of-contents)
 
 * ### Expected Improvement
@@ -167,7 +181,7 @@
 
 
 
-## Sort by settings
+## Sorted by settings
 [Back to Top](#table-of-contents)
 
 * ### multi-objective
