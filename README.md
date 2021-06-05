@@ -1,19 +1,7 @@
-<style>
-#logo{
-  text-align: center;
-  vertical-align: middle;
-  font-size: 3em;
-  font-weight: bold;
-  border-style: double;
-  border-width: 5px;
-  padding: 1em;
-}
-</style>
-
-<div id="logo">Awesome Bayesian Optimization</div>
 <br>
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# **Awesome Bayesian Optimization** [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+
 
 # Table of Contents
 * **[Table of Contents](#table-of-contents)**
